@@ -44,11 +44,17 @@ export function Navbar() {
         {/* Logo */}
         <NavLink
           to="/"
-          className="font-display font-bold text-xl tracking-tight"
-          style={{ color: 'var(--text-1)', letterSpacing: '-0.03em' }}
+          className="flex items-center gap-2.5 transition-transform hover:scale-105"
         >
-          <span style={{ color: 'var(--accent)' }}>S</span>aranya
-          <span style={{ color: 'var(--secondary)' }}>.</span>
+          <img 
+            src="/logo.png" 
+            alt="Saranya Logo" 
+            className="h-9 w-auto object-contain drop-shadow-sm" 
+          />
+          <div className="font-display font-bold text-xl tracking-tight hidden sm:block" style={{ color: 'var(--text-1)', letterSpacing: '-0.03em' }}>
+            <span style={{ color: 'var(--accent)' }}>S</span>aranya
+            <span style={{ color: 'var(--secondary)' }}>.</span>
+          </div>
         </NavLink>
 
         {/* Desktop links */}
