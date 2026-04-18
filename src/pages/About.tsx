@@ -225,7 +225,10 @@ export function About() {
               }}>
               
               <a
-                href="#"
+                href="https://docs.google.com/document/d/195QyiqbWvL6Ywo0AGdp2S9pB03zOu7xv/export?format=pdf"
+                download="Saranya_Resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-slate-800 dark:bg-white text-white dark:text-slate-900 font-semibold hover:bg-slate-700 dark:hover:bg-slate-200 transition-colors">
                 
                 Download CV <Download size={18} />

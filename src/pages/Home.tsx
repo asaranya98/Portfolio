@@ -234,7 +234,13 @@ export function Home() {
               <Link to="/projects" className="btn-accent">
                 View Projects <ArrowRight size={17} />
               </Link>
-              <a href="#" className="btn-ghost">
+              <a 
+                href="https://docs.google.com/document/d/195QyiqbWvL6Ywo0AGdp2S9pB03zOu7xv/export?format=pdf" 
+                download="Saranya_Resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-ghost"
+              >
                 Download CV <Download size={17} />
               </a>
             </div>
