@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://asaranya98.github.io/Portfolio/</loc>
+    <loc>https://saranyaarun.vercel.app/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://asaranya98.github.io/Portfolio/about</loc>
+    <loc>https://saranyaarun.vercel.app/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://asaranya98.github.io/Portfolio/skills</loc>
+    <loc>https://saranyaarun.vercel.app/skills</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://asaranya98.github.io/Portfolio/experience</loc>
+    <loc>https://saranyaarun.vercel.app/experience</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://asaranya98.github.io/Portfolio/projects</loc>
+    <loc>https://saranyaarun.vercel.app/projects</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://asaranya98.github.io/Portfolio/certificates</loc>
+    <loc>https://saranyaarun.vercel.app/certificates</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://asaranya98.github.io/Portfolio/contact</loc>
+    <loc>https://saranyaarun.vercel.app/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
